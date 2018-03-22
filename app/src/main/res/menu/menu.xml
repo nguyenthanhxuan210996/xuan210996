@@ -1,0 +1,16 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bird"
+        android:title="Anngry Bird" />
+    <item
+        android:id="@+id/marvel"
+        android:title="Marvel" />
+    <item
+        android:id="@+id/girl"
+        android:title="Sexy girl" />
+    <item
+        android:id="@+id/mtp"
+        android:title="Sơn Tùng MTP" />
+</menu>
